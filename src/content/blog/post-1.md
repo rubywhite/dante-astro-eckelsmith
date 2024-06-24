@@ -1,6 +1,6 @@
 ---
 title: Retreat
-excerpt: 
+excerpt: house sitting by the shore with an orchid
 publishDate: 'Aug 5 2023'
 tags:
   - General
