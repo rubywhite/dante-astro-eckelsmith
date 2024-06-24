@@ -42,8 +42,8 @@ const siteConfig: SiteConfig = {
     subtitle: 'helping people communicate with technology since 1996',
     description: 'communication & technology services for non-profits and progressive groups',
     image: {
-        src: '/RWElogo.png',
-        alt: 'Ruby White logo'
+        src: '/John_GrandCanyon.jpg',
+        alt: 'John Loughlin at the Grand Canyon'
     },
     headerNavLinks: [
         {
