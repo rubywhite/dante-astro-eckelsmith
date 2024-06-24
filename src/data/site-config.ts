@@ -42,8 +42,8 @@ const siteConfig: SiteConfig = {
     subtitle: 'helping people communicate with technology since 1996',
     description: 'communication & technology services for non-profits and progressive groups',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'inspiration'
+        src: '/RWElogo.png',
+        alt: 'Ruby White logo'
     },
     headerNavLinks: [
         {
@@ -96,8 +96,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Cheers',
-        text: "I'm **John Loughlin**, a technology prognosticator.",
+        title: '',
+        text: "**John Loughlin**, technology prognosticator",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
