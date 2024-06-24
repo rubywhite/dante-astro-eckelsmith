@@ -38,12 +38,12 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Ruby White',
-    subtitle: 'helping people communicate with technology since 1996',
+    title: 'John Loughlin',
+    subtitle: 'helping people communicate with technology since 1981',
     description: 'communication & technology services for non-profits and progressive groups',
     image: {
-        src: '/RWElogo.png',
-        alt: 'Ruby White logo'
+        src: '',
+        alt: ''
     },
     headerNavLinks: [
         {
