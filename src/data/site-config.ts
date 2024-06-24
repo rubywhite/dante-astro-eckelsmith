@@ -42,8 +42,8 @@ const siteConfig: SiteConfig = {
     subtitle: 'helping people communicate with technology since 1996',
     description: 'communication & technology services for non-profits and progressive groups',
     image: {
-        src: '/John_GrandCanyon.jpg',
-        alt: 'John Loughlin at the Grand Canyon'
+        src: '/RWElogo.png',
+        alt: 'Ruby White logo'
     },
     headerNavLinks: [
         {
@@ -99,8 +99,8 @@ const siteConfig: SiteConfig = {
         title: '',
         text: "**John Loughlin**, technology prognosticator",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/John_GrandCanyon.jpg',
+            alt: 'John Loughlin at the Grand Canyon'
         },
         actions: [
             {
