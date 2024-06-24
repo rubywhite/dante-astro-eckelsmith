@@ -5,7 +5,7 @@ module.exports = {
     darkMode: 'class',
     theme: {
         fontFamily: {
-            sans: ['Helvetica', ...defaultTheme.fontFamily.sans],
+            sans: ['Inter', ...defaultTheme.fontFamily.sans],
             serif: ['Newsreader', ...defaultTheme.fontFamily.serif]
         },
         extend: {
@@ -53,7 +53,7 @@ module.exports = {
                             }
                         },
                         'h1,h2,h3,h4,h5,h6': {
-                            fontFamily: theme('fontFamily.sans'),
+                            fontFamily: theme('fontFamily.serif'),
                             fontWeight: 500
                         },
                         blockquote: {
