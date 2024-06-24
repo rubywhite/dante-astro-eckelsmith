@@ -11,4 +11,4 @@ _Email:_
 Shoot me an email at [john@rubywhite.com](mailto:john@rubywhite.com), and I'll respond as soon as I can
 
 _Social Media:_
-Connect on social media — you can find me on [Mastodon](https://mastodon.rubywhite.com/@John) or [LinkedIn](https://www.linkedin.com/in/johnloughlin/)
+You can find me on [Mastodon](https://mastodon.rubywhite.com/@John) or [LinkedIn](https://www.linkedin.com/in/johnloughlin/)
